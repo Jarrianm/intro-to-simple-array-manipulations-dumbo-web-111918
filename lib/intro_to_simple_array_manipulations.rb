@@ -33,3 +33,7 @@ end
 def using_unq(array)
   array.uniq
 end
+
+def using_flatten(array)
+  array.flatten!
+end
